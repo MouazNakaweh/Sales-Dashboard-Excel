@@ -5,8 +5,7 @@ A professional Sales Dashboard built entirely in Excel to visualize and analyze 
 - **Primary:** `#815854`
 - **Secondary / Background:** `#F9EBDE`
 
-![Screenshot](dashboard.png)
-*Replace `screenshot.png` with your actual screenshot file.*
+![Dashboard](Dashboard.png)
 
 ## Key Highlights
 
